@@ -3,12 +3,13 @@
     max-width: 190px;
     position: relative;
 }
-.form_image_wrap_image img {width: 100%}
+.form_image_wrap_image img {width: 100%;
+    display: block;}
 
 
 
 #form {
-    margin-top: 64px;
+    margin-top: 280px;
     padding-bottom: 48px;
     position: relative;
 }
@@ -16,7 +17,14 @@ form {
     width: 100%;
 }
 #form_image {
-
+    position: absolute;
+    left: 50%;
+    top: -250px;
+    -webkit-transform: translateX(-50%);
+    -moz-transform: translateX(-50%);
+    -ms-transform: translateX(-50%);
+    -o-transform: translateX(-50%);
+    transform: translateX(-50%);
 }
 
 .form_wrap {
