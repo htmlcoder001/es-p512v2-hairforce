@@ -1,0 +1,42 @@
+December 20, 2022, 2:31 am
+----------- DATA -------------
+Array
+(
+    [name] => henry george coral ayala
+    [phone] => +5192136820
+    [offerId] => 25c8f434-1934-47b9-8d62-f5327a30c19a
+    [domain] => http://caterebsiw.site/lander/hair-pe-5--accaunt-1-/lemon.php
+    [ip] => 132.251.3.25
+    [utm_campaign] => 
+    [utm_content] => 
+    [utm_medium] => 
+    [utm_source] => 
+    [utm_term] => 
+    [clickid] => 3gi7f5m45027
+    [fbpxl] => 
+)
+
+----------- RESPONSE ---------
+{"result":"ok","localClickId":"ae3ba050-9536-44eb-8ee5-169e01235004"}
+----------- END --------------
+December 20, 2022, 3:15 am
+----------- DATA -------------
+Array
+(
+    [name] => Luis Gustavo 
+    [phone] => +51941453323
+    [offerId] => 25c8f434-1934-47b9-8d62-f5327a30c19a
+    [domain] => http://caterebsiw.site/lander/hair-pe-5--accaunt-1-/lemon.php
+    [ip] => 179.6.170.249
+    [utm_campaign] => 
+    [utm_content] => 
+    [utm_medium] => 
+    [utm_source] => 
+    [utm_term] => 
+    [clickid] => 1g4o483450hr
+    [fbpxl] => 
+)
+
+----------- RESPONSE ---------
+{"result":"ok","localClickId":"2b93a48c-a2d8-4610-a357-cdbe37f774ee"}
+----------- END --------------
